@@ -6,6 +6,7 @@ You can also change the file to use a UDP port instead.
 
 For tracking and headset I am currently using Quest 2 and the Quest 2 controller because it is easy to change AAs at events and doesn't get ocluded like the Quest 3 controller. I don't see any reason I couldn't use it with Quest 3 and my Quest Pro controllers instead though.  I would eventually like to see the tracking done with the Vive Ultimate Trackers and possibly a custom Pi Based Inside Out Tracker this group will be working on: https://discord.gg/3GNt2qtBmh
 Diver X is also working on a cool tracking solution that could be useful for tracking the glove when it is release.
+Realistically though any help with converting this to use universal tracking methods would be greatly appreciated.
 
 Changes from the demo at events 
 - Had to remove the catana because even though it is free on asset store I am not sure if it is alright to share on Github. Hopefully will make a replacement at some point.
