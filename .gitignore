@@ -1,0 +1,13 @@
+Zips/
+Library/
+.vs/
+Temp/UnityLockfile
+__Backupscenes/0.backup
+ProcessJobs/*.bakert
+Temp/
+Builds/
+build/
+Logs/
+obj/
+UnityPackageManager/
+UserSettings/
