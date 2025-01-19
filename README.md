@@ -1,5 +1,9 @@
 Unity Game For Testing the Gauntl33t Haptic Glove.
 
+Currently it is setup to talk to a serial port so you need to change the hard coded serial port value in AnimateFingers.cs to the appropriate Serial (COM) port.  
+I am personally using a data power splitter and running the glove hard wired. However, you could use a bluetooth serial port in ideal conditions.
+You can also change the file to use a UDP port instead.
+
 Changes from the demo at events 
 - Had to remove the catana because even though it is free on asset store I am not sure if it is alright to share on Github. Hopefully will make a replacement at some point.
 - Also, removed the copyright infringing music that I had on the demo.
